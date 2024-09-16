@@ -1,6 +1,9 @@
+
+![project25](https://github.com/user-attachments/assets/08b14faa-3e9a-4fb2-a794-2e82c35980ac) ![Screenshot 2024-09-16 at 13 57 39](https://github.com/user-attachments/assets/b0ea18a0-e6cd-4d69-b222-018de87b8fe9)
+
 ## AnimeVault-NextJS-Webpage
 
-Anime-Vault is a NextJS 14 Server Side App with Server Actions, Infinite Scroll, and Framer-Motion Animations, where it displays the lists of all anime from Server Side API, in this project the main goal is to define, understand, separate, and implement Server Side Actions and Clint Side Actions in NextJS and deployed on Vercel.
+Anime-Vault is a NextJS 14 Server Side App with Server Actions, Infinite Scroll, Framer-Motion Animations and Typescript, where it displays the lists of all anime from Server Side API, in this project the main goal is to define, understand, separate, and implement Server Side Actions and Clint Side Actions in NextJS and deployed on Vercel.
 
 **Note: To check this website live, click here:** https://anime-vault-arnob.vercel.app/
 
